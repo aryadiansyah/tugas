@@ -1,0 +1,14 @@
+#indclude<iostream>
+using namespace std;
+
+int main(){
+int a = 10;
+int b = 5;
+
+cout<<"Penjumlahan a dan b"<<endl;
+cout<<"a = "<<a<<endl;
+cout<<"b = "<<b<<endl;
+cout"\n";
+
+cout<<Hasil penjumlahan = "<<a+b<<;
+}
