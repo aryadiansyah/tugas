@@ -11,4 +11,7 @@ cout<<"b = "<<b<<endl;
 cout"\n";
 
 cout<<Hasil penjumlahan = "<<a+b<<;
+cout<<Hasil penjumlahan = "<<a-b<<;
+cout<<Hasil penjumlahan = "<<a*b<<;
+cout<<Hasil penjumlahan = "<<a/b<<;
 }
